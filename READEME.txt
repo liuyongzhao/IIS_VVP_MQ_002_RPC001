@@ -1,0 +1,4 @@
+rpc包中的消息提供者和消费者是采用新旧两种API实现的，
+   其中RPC_C_DEMO和RPC_P_DEMO是basicConsumer的新的API写法。
+   运行时先启动provider等待需求，再启动main里的主程序调用消费者发送请求。
+vvp.binding里的是发送端声明交换器及其绑定的路由键值，消费者声明匿名队列并绑定到同一交换器上，同时设定相同的路由键值。
