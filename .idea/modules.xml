@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/IIS_VVP_MQ_CONSUMER_A.iml" filepath="$PROJECT_DIR$/IIS_VVP_MQ_CONSUMER_A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IIS_VVP_MQ_002_RPC001.iml" filepath="$PROJECT_DIR$/IIS_VVP_MQ_002_RPC001.iml" />
     </modules>
   </component>
 </project>
